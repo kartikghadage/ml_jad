@@ -1,1 +1,1 @@
-#learning the jad
+#learning the jad #git global config 
